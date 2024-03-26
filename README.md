@@ -5,8 +5,8 @@ XcodePilot is a toolset App for Xcode. eg: Copilot, Xcode&amp;runtime Manager, C
 
 ## Features
 
-[x] Github Copilot with Xcode Source Editor Extension
-[x] Xcode & Runtime download and install
+[x]Github Copilot with Xcode Source Editor Extension
+[x]Xcode & Runtime download and install
 [x] Apple Develop Cache Cleaner
 [x] Apple error code search
 
