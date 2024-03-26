@@ -6,14 +6,19 @@ XcodePilot is a toolset App for Xcode. eg: Copilot, Xcode&amp;runtime Manager, C
 ## Features
 
 [x] Github Copilot with Xcode Source Editor Extension
+
 [x] Xcode & Runtime download and install
+
 [x] Apple Develop Cache Cleaner
+
 [x] Apple error code search
 
 ## Coming soon
 
 [] `Todo`/`Fixme` tag manage
+
 [] Sandbox browser
+
 [] Something your suggestions. [**I have a good idea**](https://github.com/TMTBO/XcodePilotApp/issues/new)
 
 ## Requirements
