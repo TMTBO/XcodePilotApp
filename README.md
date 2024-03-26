@@ -12,9 +12,9 @@ XcodePilot is a toolset App for Xcode. eg: Copilot, Xcode&amp;runtime Manager, C
 
 ## Coming soon
 
-- [] `Todo`/`Fixme` tag manage
-- [] Sandbox browser
-- [] Something your suggestions. [**I have a good idea**](https://github.com/TMTBO/XcodePilotApp/issues/new)
+- [ ] `Todo`/`Fixme` tag manage
+- [ ] Sandbox browser
+- [ ] Something your suggestions. [**I have a good idea**](https://github.com/TMTBO/XcodePilotApp/issues/new)
 
 ## Requirements
 
