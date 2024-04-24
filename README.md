@@ -6,6 +6,7 @@ A toolset application for iOS/Macos developer with Xcode. eg: Copilot, Xcode&run
 ## Features
 
 - [x] Github Copilot with Xcode Source Editor Extension
+- [x] Github Copilt Chat 
 - [x] Xcode & Runtime download and install
 - [x] Apple Develop Cache Cleaner
 - [x] Apple error code search
