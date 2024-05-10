@@ -1,7 +1,7 @@
 # XcodePilot
 
 ![functions](./Assets/funcs.png)
-A toolset application for iOS/Macos developer with Xcode. eg: Copilot, Xcode&runtime Manager, Cleaner ...
+A toolset application for iOS/MacOS developer with Xcode. eg: Copilot, Copilot Chat, Xcode&runtime Manager, Cleaner ...
 
 ## Features
 
