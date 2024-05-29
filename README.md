@@ -10,6 +10,8 @@ A toolset application for iOS/MacOS developer with Xcode. eg: Copilot, Copilot C
 - [x] Xcode & Runtime download and install
 - [x] Apple Develop Cache Cleaner
 - [x] Apple error code search
+- [x] String Converter
+- [x] Regex Tester
 
 ## Coming soon
 
